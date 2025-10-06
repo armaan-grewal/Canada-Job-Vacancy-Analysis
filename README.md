@@ -5,7 +5,17 @@ This Python program allows users to compare job vacancies across two Canadian pr
 
 ## Overview
 
-This program allows users to select any two Canadian provinces and compare job vacancies based on six education levels: no education required, high school diploma, non-university certificate, diploma below bachelor's, bachelor's degree, and diploma above bachelor's. It parses the CSV file, aggregates the total job vacancies for each education level in each province, and visualizes the data as a side-by-side bar chart. This visualization makes it easy to see patterns in regional labor demand, such as which provinces offer more opportunities for lower-education jobs versus higher-education roles. The findings can help job seekers identify regions where their education level is in higher demand, guide educational planning, and inform research on workforce trends. By comparing two provinces directly, users gain a clear understanding of regional differences in job market requirements, revealing insights into how education aligns with job availability across Canada.
+This program allows users to select any two Canadian provinces and compare job vacancies based on six education levels: 
+- No education required  
+- High school diploma  
+- Non-university certificate  
+- Diploma below bachelor's  
+- Bachelor's degree  
+- Diploma above bachelor's  
+
+It parses the CSV file, aggregates the total job vacancies for each education level in each province, and visualizes the data as a side-by-side bar chart. This visualization makes it easy to see patterns in regional labor demand, such as which provinces offer more opportunities for lower-education jobs versus higher-education roles. The findings can help job seekers identify regions where their education level is in higher demand, guide educational planning, and inform research on workforce trends. By comparing two provinces directly, users gain a clear understanding of regional differences in job market requirements, revealing insights into how education aligns with job availability across Canada.
+
+
 
 ---
 
